@@ -4,4 +4,4 @@ If a list contains repeated elements they should be replaced with a single copy 
 Example:
 ?- compress([a,a,a,a,b,c,c,a,a,d,e,e,e,e],X).
 X = [a,b,c,a,d,e]
-23.  Run-length encoding 
+
